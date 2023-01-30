@@ -1,0 +1,17 @@
+C:\Users\ugurk\FirstBackEndCodeRepos\selectie oef1 30jan 23\selectie oef1 30jan 23\bin\Debug\net6.0-windows\selectie oef1 30jan 23.exe
+C:\Users\ugurk\FirstBackEndCodeRepos\selectie oef1 30jan 23\selectie oef1 30jan 23\bin\Debug\net6.0-windows\selectie oef1 30jan 23.deps.json
+C:\Users\ugurk\FirstBackEndCodeRepos\selectie oef1 30jan 23\selectie oef1 30jan 23\bin\Debug\net6.0-windows\selectie oef1 30jan 23.runtimeconfig.json
+C:\Users\ugurk\FirstBackEndCodeRepos\selectie oef1 30jan 23\selectie oef1 30jan 23\bin\Debug\net6.0-windows\selectie oef1 30jan 23.dll
+C:\Users\ugurk\FirstBackEndCodeRepos\selectie oef1 30jan 23\selectie oef1 30jan 23\bin\Debug\net6.0-windows\selectie oef1 30jan 23.pdb
+C:\Users\ugurk\FirstBackEndCodeRepos\selectie oef1 30jan 23\selectie oef1 30jan 23\obj\Debug\net6.0-windows\selectie oef1 30jan 23.vbproj.AssemblyReference.cache
+C:\Users\ugurk\FirstBackEndCodeRepos\selectie oef1 30jan 23\selectie oef1 30jan 23\obj\Debug\net6.0-windows\selectie_oef1_30jan_23.Form1.resources
+C:\Users\ugurk\FirstBackEndCodeRepos\selectie oef1 30jan 23\selectie oef1 30jan 23\obj\Debug\net6.0-windows\selectie oef1 30jan 23.vbproj.GenerateResource.cache
+C:\Users\ugurk\FirstBackEndCodeRepos\selectie oef1 30jan 23\selectie oef1 30jan 23\obj\Debug\net6.0-windows\selectie oef1 30jan 23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ugurk\FirstBackEndCodeRepos\selectie oef1 30jan 23\selectie oef1 30jan 23\obj\Debug\net6.0-windows\selectie oef1 30jan 23.AssemblyInfoInputs.cache
+C:\Users\ugurk\FirstBackEndCodeRepos\selectie oef1 30jan 23\selectie oef1 30jan 23\obj\Debug\net6.0-windows\selectie oef1 30jan 23.AssemblyInfo.vb
+C:\Users\ugurk\FirstBackEndCodeRepos\selectie oef1 30jan 23\selectie oef1 30jan 23\obj\Debug\net6.0-windows\selectie oef1 30jan 23.vbproj.CoreCompileInputs.cache
+C:\Users\ugurk\FirstBackEndCodeRepos\selectie oef1 30jan 23\selectie oef1 30jan 23\obj\Debug\net6.0-windows\selectie oef1 30jan 23.dll
+C:\Users\ugurk\FirstBackEndCodeRepos\selectie oef1 30jan 23\selectie oef1 30jan 23\obj\Debug\net6.0-windows\refint\selectie oef1 30jan 23.dll
+C:\Users\ugurk\FirstBackEndCodeRepos\selectie oef1 30jan 23\selectie oef1 30jan 23\obj\Debug\net6.0-windows\selectie oef1 30jan 23.pdb
+C:\Users\ugurk\FirstBackEndCodeRepos\selectie oef1 30jan 23\selectie oef1 30jan 23\obj\Debug\net6.0-windows\selectie oef1 30jan 23.genruntimeconfig.cache
+C:\Users\ugurk\FirstBackEndCodeRepos\selectie oef1 30jan 23\selectie oef1 30jan 23\obj\Debug\net6.0-windows\ref\selectie oef1 30jan 23.dll

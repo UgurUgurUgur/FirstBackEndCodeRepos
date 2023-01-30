@@ -1,0 +1,17 @@
+C:\Users\ugurk\FirstBackEndCodeRepos\oef3-25jan\oef3-25jan\bin\Debug\net6.0-windows\oef3-25jan.exe
+C:\Users\ugurk\FirstBackEndCodeRepos\oef3-25jan\oef3-25jan\bin\Debug\net6.0-windows\oef3-25jan.deps.json
+C:\Users\ugurk\FirstBackEndCodeRepos\oef3-25jan\oef3-25jan\bin\Debug\net6.0-windows\oef3-25jan.runtimeconfig.json
+C:\Users\ugurk\FirstBackEndCodeRepos\oef3-25jan\oef3-25jan\bin\Debug\net6.0-windows\oef3-25jan.dll
+C:\Users\ugurk\FirstBackEndCodeRepos\oef3-25jan\oef3-25jan\bin\Debug\net6.0-windows\oef3-25jan.pdb
+C:\Users\ugurk\FirstBackEndCodeRepos\oef3-25jan\oef3-25jan\obj\Debug\net6.0-windows\oef3-25jan.vbproj.AssemblyReference.cache
+C:\Users\ugurk\FirstBackEndCodeRepos\oef3-25jan\oef3-25jan\obj\Debug\net6.0-windows\oef3_25jan.Form1.resources
+C:\Users\ugurk\FirstBackEndCodeRepos\oef3-25jan\oef3-25jan\obj\Debug\net6.0-windows\oef3-25jan.vbproj.GenerateResource.cache
+C:\Users\ugurk\FirstBackEndCodeRepos\oef3-25jan\oef3-25jan\obj\Debug\net6.0-windows\oef3-25jan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ugurk\FirstBackEndCodeRepos\oef3-25jan\oef3-25jan\obj\Debug\net6.0-windows\oef3-25jan.AssemblyInfoInputs.cache
+C:\Users\ugurk\FirstBackEndCodeRepos\oef3-25jan\oef3-25jan\obj\Debug\net6.0-windows\oef3-25jan.AssemblyInfo.vb
+C:\Users\ugurk\FirstBackEndCodeRepos\oef3-25jan\oef3-25jan\obj\Debug\net6.0-windows\oef3-25jan.vbproj.CoreCompileInputs.cache
+C:\Users\ugurk\FirstBackEndCodeRepos\oef3-25jan\oef3-25jan\obj\Debug\net6.0-windows\oef3-25jan.dll
+C:\Users\ugurk\FirstBackEndCodeRepos\oef3-25jan\oef3-25jan\obj\Debug\net6.0-windows\refint\oef3-25jan.dll
+C:\Users\ugurk\FirstBackEndCodeRepos\oef3-25jan\oef3-25jan\obj\Debug\net6.0-windows\oef3-25jan.pdb
+C:\Users\ugurk\FirstBackEndCodeRepos\oef3-25jan\oef3-25jan\obj\Debug\net6.0-windows\oef3-25jan.genruntimeconfig.cache
+C:\Users\ugurk\FirstBackEndCodeRepos\oef3-25jan\oef3-25jan\obj\Debug\net6.0-windows\ref\oef3-25jan.dll

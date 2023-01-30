@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BankApp oef 30jan 23/1.0.0": {
+        "runtime": {
+          "BankApp oef 30jan 23.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BankApp oef 30jan 23/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\ugurk\FirstBackEndCodeRepos\FirstBackEndCodeVS\FirstBackEndCodeVS\bin\Debug\net6.0-windows\FirstBackEndCodeVS.exe
+C:\Users\ugurk\FirstBackEndCodeRepos\FirstBackEndCodeVS\FirstBackEndCodeVS\bin\Debug\net6.0-windows\FirstBackEndCodeVS.deps.json
+C:\Users\ugurk\FirstBackEndCodeRepos\FirstBackEndCodeVS\FirstBackEndCodeVS\bin\Debug\net6.0-windows\FirstBackEndCodeVS.runtimeconfig.json
+C:\Users\ugurk\FirstBackEndCodeRepos\FirstBackEndCodeVS\FirstBackEndCodeVS\bin\Debug\net6.0-windows\FirstBackEndCodeVS.dll
+C:\Users\ugurk\FirstBackEndCodeRepos\FirstBackEndCodeVS\FirstBackEndCodeVS\bin\Debug\net6.0-windows\FirstBackEndCodeVS.pdb
+C:\Users\ugurk\FirstBackEndCodeRepos\FirstBackEndCodeVS\FirstBackEndCodeVS\obj\Debug\net6.0-windows\FirstBackEndCodeVS.vbproj.AssemblyReference.cache
+C:\Users\ugurk\FirstBackEndCodeRepos\FirstBackEndCodeVS\FirstBackEndCodeVS\obj\Debug\net6.0-windows\FirstBackEndCodeVS.Form1.resources
+C:\Users\ugurk\FirstBackEndCodeRepos\FirstBackEndCodeVS\FirstBackEndCodeVS\obj\Debug\net6.0-windows\FirstBackEndCodeVS.vbproj.GenerateResource.cache
+C:\Users\ugurk\FirstBackEndCodeRepos\FirstBackEndCodeVS\FirstBackEndCodeVS\obj\Debug\net6.0-windows\FirstBackEndCodeVS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ugurk\FirstBackEndCodeRepos\FirstBackEndCodeVS\FirstBackEndCodeVS\obj\Debug\net6.0-windows\FirstBackEndCodeVS.AssemblyInfoInputs.cache
+C:\Users\ugurk\FirstBackEndCodeRepos\FirstBackEndCodeVS\FirstBackEndCodeVS\obj\Debug\net6.0-windows\FirstBackEndCodeVS.AssemblyInfo.vb
+C:\Users\ugurk\FirstBackEndCodeRepos\FirstBackEndCodeVS\FirstBackEndCodeVS\obj\Debug\net6.0-windows\FirstBackEndCodeVS.vbproj.CoreCompileInputs.cache
+C:\Users\ugurk\FirstBackEndCodeRepos\FirstBackEndCodeVS\FirstBackEndCodeVS\obj\Debug\net6.0-windows\FirstBackEndCodeVS.dll
+C:\Users\ugurk\FirstBackEndCodeRepos\FirstBackEndCodeVS\FirstBackEndCodeVS\obj\Debug\net6.0-windows\refint\FirstBackEndCodeVS.dll
+C:\Users\ugurk\FirstBackEndCodeRepos\FirstBackEndCodeVS\FirstBackEndCodeVS\obj\Debug\net6.0-windows\FirstBackEndCodeVS.pdb
+C:\Users\ugurk\FirstBackEndCodeRepos\FirstBackEndCodeVS\FirstBackEndCodeVS\obj\Debug\net6.0-windows\FirstBackEndCodeVS.genruntimeconfig.cache
+C:\Users\ugurk\FirstBackEndCodeRepos\FirstBackEndCodeVS\FirstBackEndCodeVS\obj\Debug\net6.0-windows\ref\FirstBackEndCodeVS.dll

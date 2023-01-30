@@ -1,0 +1,17 @@
+C:\Users\ugurk\FirstBackEndCodeRepos\oef9 26jan\oef9 26jan\bin\Debug\net6.0-windows\oef9 26jan.exe
+C:\Users\ugurk\FirstBackEndCodeRepos\oef9 26jan\oef9 26jan\bin\Debug\net6.0-windows\oef9 26jan.deps.json
+C:\Users\ugurk\FirstBackEndCodeRepos\oef9 26jan\oef9 26jan\bin\Debug\net6.0-windows\oef9 26jan.runtimeconfig.json
+C:\Users\ugurk\FirstBackEndCodeRepos\oef9 26jan\oef9 26jan\bin\Debug\net6.0-windows\oef9 26jan.dll
+C:\Users\ugurk\FirstBackEndCodeRepos\oef9 26jan\oef9 26jan\bin\Debug\net6.0-windows\oef9 26jan.pdb
+C:\Users\ugurk\FirstBackEndCodeRepos\oef9 26jan\oef9 26jan\obj\Debug\net6.0-windows\oef9 26jan.vbproj.AssemblyReference.cache
+C:\Users\ugurk\FirstBackEndCodeRepos\oef9 26jan\oef9 26jan\obj\Debug\net6.0-windows\oef9_26jan.Form1.resources
+C:\Users\ugurk\FirstBackEndCodeRepos\oef9 26jan\oef9 26jan\obj\Debug\net6.0-windows\oef9 26jan.vbproj.GenerateResource.cache
+C:\Users\ugurk\FirstBackEndCodeRepos\oef9 26jan\oef9 26jan\obj\Debug\net6.0-windows\oef9 26jan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ugurk\FirstBackEndCodeRepos\oef9 26jan\oef9 26jan\obj\Debug\net6.0-windows\oef9 26jan.AssemblyInfoInputs.cache
+C:\Users\ugurk\FirstBackEndCodeRepos\oef9 26jan\oef9 26jan\obj\Debug\net6.0-windows\oef9 26jan.AssemblyInfo.vb
+C:\Users\ugurk\FirstBackEndCodeRepos\oef9 26jan\oef9 26jan\obj\Debug\net6.0-windows\oef9 26jan.vbproj.CoreCompileInputs.cache
+C:\Users\ugurk\FirstBackEndCodeRepos\oef9 26jan\oef9 26jan\obj\Debug\net6.0-windows\oef9 26jan.dll
+C:\Users\ugurk\FirstBackEndCodeRepos\oef9 26jan\oef9 26jan\obj\Debug\net6.0-windows\refint\oef9 26jan.dll
+C:\Users\ugurk\FirstBackEndCodeRepos\oef9 26jan\oef9 26jan\obj\Debug\net6.0-windows\oef9 26jan.pdb
+C:\Users\ugurk\FirstBackEndCodeRepos\oef9 26jan\oef9 26jan\obj\Debug\net6.0-windows\oef9 26jan.genruntimeconfig.cache
+C:\Users\ugurk\FirstBackEndCodeRepos\oef9 26jan\oef9 26jan\obj\Debug\net6.0-windows\ref\oef9 26jan.dll

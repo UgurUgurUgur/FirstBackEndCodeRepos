@@ -1,0 +1,17 @@
+C:\Users\ugurk\FirstBackEndCodeRepos\integer plus double\integer plus double\bin\Debug\net6.0-windows\integer plus double.exe
+C:\Users\ugurk\FirstBackEndCodeRepos\integer plus double\integer plus double\bin\Debug\net6.0-windows\integer plus double.deps.json
+C:\Users\ugurk\FirstBackEndCodeRepos\integer plus double\integer plus double\bin\Debug\net6.0-windows\integer plus double.runtimeconfig.json
+C:\Users\ugurk\FirstBackEndCodeRepos\integer plus double\integer plus double\bin\Debug\net6.0-windows\integer plus double.dll
+C:\Users\ugurk\FirstBackEndCodeRepos\integer plus double\integer plus double\bin\Debug\net6.0-windows\integer plus double.pdb
+C:\Users\ugurk\FirstBackEndCodeRepos\integer plus double\integer plus double\obj\Debug\net6.0-windows\integer plus double.vbproj.AssemblyReference.cache
+C:\Users\ugurk\FirstBackEndCodeRepos\integer plus double\integer plus double\obj\Debug\net6.0-windows\integer_plus_double.Form1.resources
+C:\Users\ugurk\FirstBackEndCodeRepos\integer plus double\integer plus double\obj\Debug\net6.0-windows\integer plus double.vbproj.GenerateResource.cache
+C:\Users\ugurk\FirstBackEndCodeRepos\integer plus double\integer plus double\obj\Debug\net6.0-windows\integer plus double.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ugurk\FirstBackEndCodeRepos\integer plus double\integer plus double\obj\Debug\net6.0-windows\integer plus double.AssemblyInfoInputs.cache
+C:\Users\ugurk\FirstBackEndCodeRepos\integer plus double\integer plus double\obj\Debug\net6.0-windows\integer plus double.AssemblyInfo.vb
+C:\Users\ugurk\FirstBackEndCodeRepos\integer plus double\integer plus double\obj\Debug\net6.0-windows\integer plus double.vbproj.CoreCompileInputs.cache
+C:\Users\ugurk\FirstBackEndCodeRepos\integer plus double\integer plus double\obj\Debug\net6.0-windows\integer plus double.dll
+C:\Users\ugurk\FirstBackEndCodeRepos\integer plus double\integer plus double\obj\Debug\net6.0-windows\refint\integer plus double.dll
+C:\Users\ugurk\FirstBackEndCodeRepos\integer plus double\integer plus double\obj\Debug\net6.0-windows\integer plus double.pdb
+C:\Users\ugurk\FirstBackEndCodeRepos\integer plus double\integer plus double\obj\Debug\net6.0-windows\integer plus double.genruntimeconfig.cache
+C:\Users\ugurk\FirstBackEndCodeRepos\integer plus double\integer plus double\obj\Debug\net6.0-windows\ref\integer plus double.dll

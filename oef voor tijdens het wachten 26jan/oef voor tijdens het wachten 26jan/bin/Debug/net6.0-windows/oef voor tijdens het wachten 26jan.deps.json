@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "oef voor tijdens het wachten 26jan/1.0.0": {
+        "runtime": {
+          "oef voor tijdens het wachten 26jan.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "oef voor tijdens het wachten 26jan/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
